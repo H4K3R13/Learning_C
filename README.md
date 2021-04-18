@@ -1,2 +1,3 @@
 # Learning_C
-Questions.md contains questions for C language.
+Contains Simple Programs And Learning Material For C 😊
+
