@@ -1,4 +1,4 @@
-Questions.md
+Questions.md (https://github.com/H4K3R13/Learning_C/blob/f8d968c5d55cffb8d73b769146564a28055b51f9/Program%20List/Questions.md)
 
 Q1.If a five-digit positive integer is entered through the keyboard, write a program to calculate the sum of its digits. Display an error message if the number entered is not a valid five digit number.
 
