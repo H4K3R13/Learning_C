@@ -5,7 +5,7 @@ void main()
     int x
     printf("Enter the integer to find the cube root:  ");
     scanf("%d",&x);
-    for(int i=0;i < N;i++)
+    for(int i=0;i<x;i++)
       {
         if(i*i*i==x)
           {
