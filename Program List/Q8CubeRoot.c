@@ -2,7 +2,7 @@
 #include<math.h>
 void main()
 {
-    int x
+    int x;
     printf("Enter the integer to find the cube root:  ");
     scanf("%d",&x);
     for(int i=0;i < x;i++)
