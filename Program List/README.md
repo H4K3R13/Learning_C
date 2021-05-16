@@ -16,3 +16,4 @@ Q7.Wind chill factor (wcf) is the felt air temperature on exposed skin due to wi
 
 Q8.Write a program to find the cube root of an integer. If the input is not a perfect cube, display the number is not a perfect cube.
 
+Rest of the questions are commented in the program....
